@@ -2,7 +2,11 @@
 
 Rust CV is a project to implement computer vision algorithms in Rust.
 
+## What is computer vision
+
 Many people are familiar with covolutional neural networks and machine learning in computer vision, but computer vision is much more than that. One of the first things that Rust CV focused on was algorithms in the domain of Multiple-View Geometry (MVG). Today, Rust now has enough MVG algorithms to perform relatively simple camera tracking and odometry tasks. Weakness still exists within image processing and machine learning domains.
+
+## Goals
 
 Here are some of the domains of computer vision that Rust CV intends to persue along with examples of the domain (not all algorithms below live within the Rust CV organization, and some of these may exist and are unknown):
 
