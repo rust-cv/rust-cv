@@ -1,4 +1,4 @@
-# rust-cv
+# Rust Computer Vision
 
 Rust CV is a project to implement computer vision algorithms in Rust.
 
